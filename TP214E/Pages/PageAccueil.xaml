@@ -21,7 +21,7 @@
         </Grid.RowDefinitions>
         <Image Grid.Row="0" Grid.Column="0" Source="/Ressources/Images/victorLogo1.png"/>
         <Label Grid.Row="0" Grid.Column="1" Content="Gestion de FoodTruck Chez Victor" Foreground="#FF5F8C5A" HorizontalAlignment="Center" VerticalAlignment="Center" FontFamily="Rockwell" FontSize="36" FontWeight="Normal"/>
-        
+
         <Border MaxWidth="1200" BorderThickness="2" BorderBrush="White" CornerRadius="8" Grid.Row="1" Grid.Column="1" Margin="100,0,100,0">
             <Border.Background>
                 <ImageBrush ImageSource="/Ressources/Images/burger.jpg"/>
@@ -46,7 +46,7 @@
 
             </Button>
         </StackPanel>
-        
+
         <Label Grid.Row="2" Grid.Column="1" Content="Conception et &#10;qualité logicielle" Foreground="#FFF" HorizontalAlignment="Right" VerticalAlignment="Center" FontFamily="Rockwell" FontSize="12" FontWeight="Bold" Margin="0,0,10,0"/>
         <Label Grid.Row="2" Grid.Column="2" Content="TP2" Foreground="#FFF" HorizontalAlignment="Center" VerticalAlignment="Center" FontFamily="Rockwell" FontSize="12" FontWeight="Bold"/>
     </Grid>

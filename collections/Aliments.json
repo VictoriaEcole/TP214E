@@ -1,0 +1,145 @@
+[{
+  "_id": {
+    "$oid": "61881327aa0d9f4fd203a208"
+  },
+  "Nom": "Sel",
+  "Quantite": 196,
+  "Unite": "g",
+  "ExpireLe": {
+    "$date": {
+      "$numberLong": "-62135596800000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "618813f6fd2090a2903cebc1"
+  },
+  "Nom": "Tomate",
+  "Quantite": 4,
+  "Unite": null,
+  "ExpireLe": {
+    "$date": "2020-04-04T04:00:00Z"
+  }
+},{
+  "_id": {
+    "$oid": "61894a0228433d8602ce2332"
+  },
+  "Nom": "Laitue",
+  "Quantite": 7,
+  "Unite": null,
+  "ExpireLe": {
+    "$date": {
+      "$numberLong": "-62135596800000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "61894b5284383d214eaccd87"
+  },
+  "Nom": "Tranche de fromage",
+  "Quantite": 55,
+  "Unite": null,
+  "ExpireLe": {
+    "$date": "2021-11-24T05:00:00Z"
+  }
+},{
+  "_id": {
+    "$oid": "61894b8a84383d214eaccd88"
+  },
+  "Nom": "Sauce à poutine",
+  "Quantite": 900,
+  "Unite": "ml",
+  "ExpireLe": {
+    "$date": "2021-12-12T05:00:00Z"
+  }
+},{
+  "_id": {
+    "$oid": "618a75d09c7fee1604e6d633"
+  },
+  "Nom": "Patate",
+  "Quantite": 1,
+  "Unite": null,
+  "ExpireLe": {
+    "$date": "2021-11-30T05:00:00Z"
+  }
+},{
+  "_id": {
+    "$oid": "618a883951357825cd88985d"
+  },
+  "Nom": "Pain hambuger",
+  "Quantite": 20,
+  "Unite": null,
+  "ExpireLe": {
+    "$date": "2021-12-01T05:00:00Z"
+  }
+},{
+  "_id": {
+    "$oid": "618a888551357825cd88985e"
+  },
+  "Nom": "Poitrine de poulet",
+  "Quantite": 20,
+  "Unite": null,
+  "ExpireLe": {
+    "$date": "2021-11-23T05:00:00Z"
+  }
+},{
+  "_id": {
+    "$oid": "618a88c151357825cd88985f"
+  },
+  "Nom": "Tomate",
+  "Quantite": 12,
+  "Unite": null,
+  "ExpireLe": {
+    "$date": "2021-11-25T05:00:00Z"
+  }
+},{
+  "_id": {
+    "$oid": "618a891151357825cd889860"
+  },
+  "Nom": "Fromage à poutine",
+  "Quantite": 800,
+  "Unite": "ml",
+  "ExpireLe": {
+    "$date": "2022-01-01T05:00:00Z"
+  }
+},{
+  "_id": {
+    "$oid": "618a894551357825cd889861"
+  },
+  "Nom": "Sauce à poutine",
+  "Quantite": 1400,
+  "Unite": "ml",
+  "ExpireLe": {
+    "$date": "2023-07-09T04:00:00Z"
+  }
+},{
+  "_id": {
+    "$oid": "618a899851357825cd889862"
+  },
+  "Nom": "Boulette de steak",
+  "Quantite": 57,
+  "Unite": null,
+  "ExpireLe": {
+    "$date": "2023-10-11T04:00:00Z"
+  }
+},{
+  "_id": {
+    "$oid": "618a89b251357825cd889863"
+  },
+  "Nom": "Cornichon",
+  "Quantite": 43,
+  "Unite": null,
+  "ExpireLe": {
+    "$date": "2022-09-01T04:00:00Z"
+  }
+},{
+  "_id": {
+    "$oid": "618fe4c0650bd62221d537fc"
+  },
+  "Nom": "Pomme",
+  "Quantite": 35,
+  "Unite": null,
+  "ExpireLe": {
+    "$date": "2021-11-27T05:00:00Z"
+  }
+}]

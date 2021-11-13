@@ -1,0 +1,236 @@
+[{
+  "_id": {
+    "$oid": "618935db3e029dabe4aec537"
+  },
+  "Nom": "Hambuger au poulet",
+  "Ingredients": [
+    {
+      "_id": {
+        "$oid": "000000000000000000000000"
+      },
+      "Nom": "Pain hambuger",
+      "Quantite": 1,
+      "Unite": null,
+      "ExpireLe": {
+        "$date": {
+          "$numberLong": "-62135596800000"
+        }
+      }
+    },
+    {
+      "_id": {
+        "$oid": "000000000000000000000000"
+      },
+      "Nom": "Tranche de fromage",
+      "Quantite": 1,
+      "Unite": null,
+      "ExpireLe": {
+        "$date": {
+          "$numberLong": "-62135596800000"
+        }
+      }
+    },
+    {
+      "_id": {
+        "$oid": "000000000000000000000000"
+      },
+      "Nom": "Tomate",
+      "Quantite": 1,
+      "Unite": null,
+      "ExpireLe": {
+        "$date": {
+          "$numberLong": "-62135596800000"
+        }
+      }
+    },
+    {
+      "_id": {
+        "$oid": "000000000000000000000000"
+      },
+      "Nom": "Poitrine de poulet",
+      "Quantite": 1,
+      "Unite": null,
+      "ExpireLe": {
+        "$date": {
+          "$numberLong": "-62135596800000"
+        }
+      }
+    },
+    {
+      "_id": {
+        "$oid": "000000000000000000000000"
+      },
+      "Nom": "Laitue",
+      "Quantite": 1,
+      "Unite": null,
+      "ExpireLe": {
+        "$date": {
+          "$numberLong": "-62135596800000"
+        }
+      }
+    }
+  ],
+  "Prix": {
+    "$numberDecimal": "11.49"
+  }
+},{
+  "_id": {
+    "$oid": "6189377ae21781f0ac5a8415"
+  },
+  "Nom": "Poutine",
+  "Ingredients": [
+    {
+      "_id": {
+        "$oid": "000000000000000000000000"
+      },
+      "Nom": "Patate",
+      "Quantite": 2,
+      "Unite": null,
+      "ExpireLe": {
+        "$date": {
+          "$numberLong": "-62135596800000"
+        }
+      }
+    },
+    {
+      "_id": {
+        "$oid": "000000000000000000000000"
+      },
+      "Nom": "Fromage à poutine",
+      "Quantite": 100,
+      "Unite": "ml",
+      "ExpireLe": {
+        "$date": {
+          "$numberLong": "-62135596800000"
+        }
+      }
+    },
+    {
+      "_id": {
+        "$oid": "000000000000000000000000"
+      },
+      "Nom": "Sauce à poutine",
+      "Quantite": 50,
+      "Unite": "ml",
+      "ExpireLe": {
+        "$date": {
+          "$numberLong": "-62135596800000"
+        }
+      }
+    }
+  ],
+  "Prix": {
+    "$numberDecimal": "10.99"
+  }
+},{
+  "_id": {
+    "$oid": "618937c9497426e8dcbb9b4e"
+  },
+  "Nom": "Frite",
+  "Ingredients": [
+    {
+      "_id": {
+        "$oid": "000000000000000000000000"
+      },
+      "Nom": "Patate",
+      "Quantite": 2,
+      "Unite": null,
+      "ExpireLe": {
+        "$date": {
+          "$numberLong": "-62135596800000"
+        }
+      }
+    },
+    {
+      "_id": {
+        "$oid": "000000000000000000000000"
+      },
+      "Nom": "Sel",
+      "Quantite": 1,
+      "Unite": "g",
+      "ExpireLe": {
+        "$date": {
+          "$numberLong": "-62135596800000"
+        }
+      }
+    }
+  ],
+  "Prix": {
+    "$numberDecimal": "4.97"
+  }
+},{
+  "_id": {
+    "$oid": "618938776814129695669920"
+  },
+  "Nom": "Hambuger",
+  "Ingredients": [
+    {
+      "_id": {
+        "$oid": "000000000000000000000000"
+      },
+      "Nom": "Pain hambuger",
+      "Quantite": 1,
+      "Unite": null,
+      "ExpireLe": {
+        "$date": {
+          "$numberLong": "-62135596800000"
+        }
+      }
+    },
+    {
+      "_id": {
+        "$oid": "000000000000000000000000"
+      },
+      "Nom": "Tranche de fromage",
+      "Quantite": 1,
+      "Unite": null,
+      "ExpireLe": {
+        "$date": {
+          "$numberLong": "-62135596800000"
+        }
+      }
+    },
+    {
+      "_id": {
+        "$oid": "000000000000000000000000"
+      },
+      "Nom": "Boulette de steak",
+      "Quantite": 0,
+      "Unite": null,
+      "ExpireLe": {
+        "$date": {
+          "$numberLong": "-62135596800000"
+        }
+      }
+    },
+    {
+      "_id": {
+        "$oid": "000000000000000000000000"
+      },
+      "Nom": "Cornichon",
+      "Quantite": 1,
+      "Unite": null,
+      "ExpireLe": {
+        "$date": {
+          "$numberLong": "-62135596800000"
+        }
+      }
+    },
+    {
+      "_id": {
+        "$oid": "000000000000000000000000"
+      },
+      "Nom": "Laitue",
+      "Quantite": 1,
+      "Unite": null,
+      "ExpireLe": {
+        "$date": {
+          "$numberLong": "-62135596800000"
+        }
+      }
+    }
+  ],
+  "Prix": {
+    "$numberDecimal": "11.67"
+  }
+}]

@@ -1,0 +1,522 @@
+[{
+  "_id": {
+    "$oid": "618a7d05101e5ec6dca8a349"
+  },
+  "recettes": [
+    {
+      "Prix": "4.97",
+      "_id": {
+        "$oid": "618937c9497426e8dcbb9b4e"
+      },
+      "Nom": "Frite",
+      "Ingredients": [
+        {
+          "_id": {
+            "$oid": "000000000000000000000000"
+          },
+          "Nom": "Patate",
+          "Quantite": 2,
+          "Unite": null,
+          "ExpireLe": {
+            "$date": {
+              "$numberLong": "-62135596800000"
+            }
+          }
+        },
+        {
+          "_id": {
+            "$oid": "000000000000000000000000"
+          },
+          "Nom": "Sel",
+          "Quantite": 1,
+          "Unite": "g",
+          "ExpireLe": {
+            "$date": {
+              "$numberLong": "-62135596800000"
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "Creation": {
+    "$date": "2021-11-09T13:52:05.510Z"
+  }
+},{
+  "_id": {
+    "$oid": "618a86c0a854bd3fbb91e7c0"
+  },
+  "recettes": [
+    {
+      "Prix": "4.97",
+      "_id": {
+        "$oid": "618937c9497426e8dcbb9b4e"
+      },
+      "Nom": "Frite",
+      "Ingredients": [
+        {
+          "_id": {
+            "$oid": "000000000000000000000000"
+          },
+          "Nom": "Patate",
+          "Quantite": 2,
+          "Unite": null,
+          "ExpireLe": {
+            "$date": {
+              "$numberLong": "-62135596800000"
+            }
+          }
+        },
+        {
+          "_id": {
+            "$oid": "000000000000000000000000"
+          },
+          "Nom": "Sel",
+          "Quantite": 1,
+          "Unite": "g",
+          "ExpireLe": {
+            "$date": {
+              "$numberLong": "-62135596800000"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "Prix": "4.97",
+      "_id": {
+        "$oid": "618937c9497426e8dcbb9b4e"
+      },
+      "Nom": "Frite",
+      "Ingredients": [
+        {
+          "_id": {
+            "$oid": "000000000000000000000000"
+          },
+          "Nom": "Patate",
+          "Quantite": 2,
+          "Unite": null,
+          "ExpireLe": {
+            "$date": {
+              "$numberLong": "-62135596800000"
+            }
+          }
+        },
+        {
+          "_id": {
+            "$oid": "000000000000000000000000"
+          },
+          "Nom": "Sel",
+          "Quantite": 1,
+          "Unite": "g",
+          "ExpireLe": {
+            "$date": {
+              "$numberLong": "-62135596800000"
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "Creation": {
+    "$date": "2021-11-09T14:33:36.729Z"
+  }
+},{
+  "_id": {
+    "$oid": "618a89df51357825cd889864"
+  },
+  "recettes": [
+    {
+      "Prix": "11.49",
+      "_id": {
+        "$oid": "618935db3e029dabe4aec537"
+      },
+      "Nom": "Hambuger au poulet",
+      "Ingredients": [
+        {
+          "_id": {
+            "$oid": "000000000000000000000000"
+          },
+          "Nom": "Pain hambuger",
+          "Quantite": 1,
+          "Unite": null,
+          "ExpireLe": {
+            "$date": {
+              "$numberLong": "-62135596800000"
+            }
+          }
+        },
+        {
+          "_id": {
+            "$oid": "000000000000000000000000"
+          },
+          "Nom": "Tranche de fromage",
+          "Quantite": 1,
+          "Unite": null,
+          "ExpireLe": {
+            "$date": {
+              "$numberLong": "-62135596800000"
+            }
+          }
+        },
+        {
+          "_id": {
+            "$oid": "000000000000000000000000"
+          },
+          "Nom": "Tomate",
+          "Quantite": 1,
+          "Unite": null,
+          "ExpireLe": {
+            "$date": {
+              "$numberLong": "-62135596800000"
+            }
+          }
+        },
+        {
+          "_id": {
+            "$oid": "000000000000000000000000"
+          },
+          "Nom": "Poitrine de poulet",
+          "Quantite": 1,
+          "Unite": null,
+          "ExpireLe": {
+            "$date": {
+              "$numberLong": "-62135596800000"
+            }
+          }
+        },
+        {
+          "_id": {
+            "$oid": "000000000000000000000000"
+          },
+          "Nom": "Laitue",
+          "Quantite": 1,
+          "Unite": null,
+          "ExpireLe": {
+            "$date": {
+              "$numberLong": "-62135596800000"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "Prix": "10.99",
+      "_id": {
+        "$oid": "6189377ae21781f0ac5a8415"
+      },
+      "Nom": "Poutine",
+      "Ingredients": [
+        {
+          "_id": {
+            "$oid": "000000000000000000000000"
+          },
+          "Nom": "Patate",
+          "Quantite": 2,
+          "Unite": null,
+          "ExpireLe": {
+            "$date": {
+              "$numberLong": "-62135596800000"
+            }
+          }
+        },
+        {
+          "_id": {
+            "$oid": "000000000000000000000000"
+          },
+          "Nom": "Fromage à poutine",
+          "Quantite": 100,
+          "Unite": "ml",
+          "ExpireLe": {
+            "$date": {
+              "$numberLong": "-62135596800000"
+            }
+          }
+        },
+        {
+          "_id": {
+            "$oid": "000000000000000000000000"
+          },
+          "Nom": "Sauce à poutine",
+          "Quantite": 50,
+          "Unite": "ml",
+          "ExpireLe": {
+            "$date": {
+              "$numberLong": "-62135596800000"
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "Creation": {
+    "$date": "2021-11-09T14:46:55.546Z"
+  }
+},{
+  "_id": {
+    "$oid": "618a9b428661fcc8562aba7a"
+  },
+  "recettes": [
+    {
+      "_id": {
+        "$oid": "618938776814129695669920"
+      },
+      "Nom": "Hambuger",
+      "Ingredients": [
+        {
+          "_id": {
+            "$oid": "000000000000000000000000"
+          },
+          "Nom": "Pain hambuger",
+          "Quantite": 1,
+          "Unite": null,
+          "ExpireLe": {
+            "$date": {
+              "$numberLong": "-62135596800000"
+            }
+          }
+        },
+        {
+          "_id": {
+            "$oid": "000000000000000000000000"
+          },
+          "Nom": "Tranche de fromage",
+          "Quantite": 1,
+          "Unite": null,
+          "ExpireLe": {
+            "$date": {
+              "$numberLong": "-62135596800000"
+            }
+          }
+        },
+        {
+          "_id": {
+            "$oid": "000000000000000000000000"
+          },
+          "Nom": "Boulette de steak",
+          "Quantite": 0,
+          "Unite": null,
+          "ExpireLe": {
+            "$date": {
+              "$numberLong": "-62135596800000"
+            }
+          }
+        },
+        {
+          "_id": {
+            "$oid": "000000000000000000000000"
+          },
+          "Nom": "Cornichon",
+          "Quantite": 1,
+          "Unite": null,
+          "ExpireLe": {
+            "$date": {
+              "$numberLong": "-62135596800000"
+            }
+          }
+        },
+        {
+          "_id": {
+            "$oid": "000000000000000000000000"
+          },
+          "Nom": "Laitue",
+          "Quantite": 1,
+          "Unite": null,
+          "ExpireLe": {
+            "$date": {
+              "$numberLong": "-62135596800000"
+            }
+          }
+        }
+      ],
+      "Prix": "11.67"
+    }
+  ],
+  "Creation": {
+    "$date": "2021-11-09T16:01:06.308Z"
+  }
+},{
+  "_id": {
+    "$oid": "618e762dba59eabd2889a99e"
+  },
+  "recettes": [
+    {
+      "_id": {
+        "$oid": "618937c9497426e8dcbb9b4e"
+      },
+      "Nom": "Frite",
+      "Ingredients": [
+        {
+          "_id": {
+            "$oid": "000000000000000000000000"
+          },
+          "Nom": "Patate",
+          "Quantite": 2,
+          "Unite": null,
+          "ExpireLe": {
+            "$date": {
+              "$numberLong": "-62135596800000"
+            }
+          }
+        },
+        {
+          "_id": {
+            "$oid": "000000000000000000000000"
+          },
+          "Nom": "Sel",
+          "Quantite": 1,
+          "Unite": "g",
+          "ExpireLe": {
+            "$date": {
+              "$numberLong": "-62135596800000"
+            }
+          }
+        }
+      ],
+      "Prix": "4.97"
+    }
+  ],
+  "Creation": {
+    "$date": "2021-11-12T14:11:57.947Z"
+  }
+},{
+  "_id": {
+    "$oid": "618ed45450469e5b1aa112b1"
+  },
+  "recettes": [
+    {
+      "_id": {
+        "$oid": "618938776814129695669920"
+      },
+      "Nom": "Hambuger",
+      "Ingredients": [
+        {
+          "_id": {
+            "$oid": "000000000000000000000000"
+          },
+          "Nom": "Pain hambuger",
+          "Quantite": 1,
+          "Unite": null,
+          "ExpireLe": {
+            "$date": {
+              "$numberLong": "-62135596800000"
+            }
+          }
+        },
+        {
+          "_id": {
+            "$oid": "000000000000000000000000"
+          },
+          "Nom": "Tranche de fromage",
+          "Quantite": 1,
+          "Unite": null,
+          "ExpireLe": {
+            "$date": {
+              "$numberLong": "-62135596800000"
+            }
+          }
+        },
+        {
+          "_id": {
+            "$oid": "000000000000000000000000"
+          },
+          "Nom": "Boulette de steak",
+          "Quantite": 0,
+          "Unite": null,
+          "ExpireLe": {
+            "$date": {
+              "$numberLong": "-62135596800000"
+            }
+          }
+        },
+        {
+          "_id": {
+            "$oid": "000000000000000000000000"
+          },
+          "Nom": "Cornichon",
+          "Quantite": 1,
+          "Unite": null,
+          "ExpireLe": {
+            "$date": {
+              "$numberLong": "-62135596800000"
+            }
+          }
+        },
+        {
+          "_id": {
+            "$oid": "000000000000000000000000"
+          },
+          "Nom": "Laitue",
+          "Quantite": 1,
+          "Unite": null,
+          "ExpireLe": {
+            "$date": {
+              "$numberLong": "-62135596800000"
+            }
+          }
+        }
+      ],
+      "Prix": "11.67"
+    }
+  ],
+  "Creation": {
+    "$date": "2021-11-12T20:53:40.624Z"
+  }
+},{
+  "_id": {
+    "$oid": "618fe5530c2c1057d3a28da1"
+  },
+  "recettes": [
+    {
+      "_id": {
+        "$oid": "6189377ae21781f0ac5a8415"
+      },
+      "Nom": "Poutine",
+      "Ingredients": [
+        {
+          "_id": {
+            "$oid": "000000000000000000000000"
+          },
+          "Nom": "Patate",
+          "Quantite": 2,
+          "Unite": null,
+          "ExpireLe": {
+            "$date": {
+              "$numberLong": "-62135596800000"
+            }
+          }
+        },
+        {
+          "_id": {
+            "$oid": "000000000000000000000000"
+          },
+          "Nom": "Fromage à poutine",
+          "Quantite": 100,
+          "Unite": "ml",
+          "ExpireLe": {
+            "$date": {
+              "$numberLong": "-62135596800000"
+            }
+          }
+        },
+        {
+          "_id": {
+            "$oid": "000000000000000000000000"
+          },
+          "Nom": "Sauce à poutine",
+          "Quantite": 50,
+          "Unite": "ml",
+          "ExpireLe": {
+            "$date": {
+              "$numberLong": "-62135596800000"
+            }
+          }
+        }
+      ],
+      "Prix": "10.99"
+    }
+  ],
+  "Creation": {
+    "$date": "2021-11-13T16:18:27.648Z"
+  }
+}]

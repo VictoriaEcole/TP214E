@@ -11,6 +11,7 @@ using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
 using TP214E.Data;
+using TP214E.Pages;
 
 namespace TP214E
 {
@@ -19,7 +20,7 @@ namespace TP214E
     /// </summary>
     public partial class PageAccueil : Page
     {
-        private DAL dal;
+        private IDAL dal;
         public PageAccueil()
         {
             InitializeComponent();
@@ -29,14 +30,12 @@ namespace TP214E
         private void BoutonInventaire_Click(object sender, RoutedEventArgs e)
         {
             PageInventaire frmInventaire = new PageInventaire(dal);
-
-            this.NavigationService.Navigate(frmInventaire);
-
-            
+            this.NavigationService.Navigate(frmInventaire);        
         }
         private void BoutonCommandes_Click(object sender, RoutedEventArgs e)
         {
-            this.NavigationService.Navigate(new Uri("Pages/PageCommandes.xaml", UriKind.Relative));
+            PageCommandes frmCommandes = new PageCommandes(dal);
+            this.NavigationService.Navigate(frmCommandes);
         }
     }
 }
